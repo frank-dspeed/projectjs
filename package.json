@@ -45,7 +45,7 @@
   },
   "devDependencies": {
     "jasmine": "^2.2.1",
-    "node-uuid": "^1.4.3"
+    "node-uuid": "^1.4.8"
   },
   "preferGlobal": true
 }
