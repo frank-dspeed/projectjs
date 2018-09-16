@@ -36,7 +36,7 @@
   "dependencies": {
     "findup-sync": "^0.4.3",
     "fs-extra": "^2.1.0",
-    "mustache": "^2.0.0",
+    "mustache": "^3.0.0",
     "own-version": "0.0.2",
     "readline-sync": "^1.2.14",
     "subcommander": "^0.1.3",
