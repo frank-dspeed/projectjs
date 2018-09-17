@@ -1,3 +1,6 @@
+*** This Repo Exist Only For Demonstration how to NOT DO IT ! ***
+
+
 # project.js
 > Bringing Javaish project structure and organization to civilize your Node apps
 
