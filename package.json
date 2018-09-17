@@ -34,9 +34,9 @@
     "node": ">=0.12.2"
   },
   "dependencies": {
+    "mustache": "^3.0.0",
     "findup-sync": "^1.0.0",
     "fs-extra": "^6.0.0",
-    "mustache": "^2.0.0",
     "own-version": "0.0.2",
     "readline-sync": "^1.2.14",
     "subcommander": "^1.0.0",
