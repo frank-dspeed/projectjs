@@ -44,7 +44,7 @@
     "version_compare": "0.0.3"
   },
   "devDependencies": {
-    "jasmine": "^3.0.0",
+    "jasmine": "^3.3.1",
     "node-uuid": "^1.4.3"
   },
   "preferGlobal": true
