@@ -35,7 +35,7 @@
   },
   "dependencies": {
     "mustache": "^3.0.0",
-    "findup-sync": "^1.0.0",
+    "findup-sync": "^4.0.0",
     "fs-extra": "^6.0.0",
     "own-version": "0.0.2",
     "readline-sync": "^1.2.14",
