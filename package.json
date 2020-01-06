@@ -40,7 +40,7 @@
     "own-version": "0.0.2",
     "readline-sync": "^1.2.14",
     "subcommander": "^1.0.0",
-    "underscore": "^1.8.3",
+    "underscore": "^1.9.2",
     "version_compare": "0.0.3"
   },
   "devDependencies": {
